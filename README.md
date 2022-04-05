@@ -2,5 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-##Agregamos notas desde repositorio local
-Estas notas son hechas desde el repositorio local
+## Agregamos notas desde repositorio local
